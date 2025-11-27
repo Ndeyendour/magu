@@ -1,0 +1,30 @@
+v1.0.3
+
+Updated documentation
+
+Changed files: library/css/style.css, library/css/style.scss
+
+--------------------
+
+v1.0.2
+
+Updated FontAwesome icons to 4.6.3
+
+Changed icons in TownPress icon pack (icons with "tp tp-" prefix) to a different icon set. Check out the documentation for complete list of icons
+http://demos.volovar.net/townpress.html/documentation/#icons
+
+Changed files: library/css/style.css, library/css/style.scss, library/fonts, library/css/import, most of HTML files were slightly edited (removed redundant "footer-social" element from footer)
+
+--------------------
+
+v1.0.1
+
+Google map element (gmap-canvas) now requires Google API key (via "data-google-api-key" attribute). The element won't work without a key.
+
+Changed files: library/css/style.css, library/css/style.scss, index.html, home-2.html, event-detail.html, town-hall.html, library/js/library.js
+
+--------------------
+
+v1.0.0
+
+Initial themeForest release
