@@ -21,7 +21,7 @@ v1.0.1
 
 Google map element (gmap-canvas) now requires Google API key (via "data-google-api-key" attribute). The element won't work without a key.
 
-Changed files: library/css/style.css, library/css/style.scss, index.html, home-2.html, event-detail.html, town-hall.html, library/js/library.js
+Changed files: library/css/style.css, library/css/style.scss, index.html, home-2.html, event-detail.html, presentation.html, library/js/library.js
 
 --------------------
 
